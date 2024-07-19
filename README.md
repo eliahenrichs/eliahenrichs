@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @eliahenrichs
-- 👀 I’m interested in Blockchain, Food Supply Chain, Food quality, Smart Sensors
-- 🌱 I’m currently learning Blockchains
+- 👀 I’m interested in Blockchain, Food Supply Chain, Food quality, Smart Sensors, Adaptive Monitoring
 - 📫 How to reach me https://foodinformatics.uni-hohenheim.de/en/henrichs
 
 <!---
